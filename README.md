@@ -5,6 +5,7 @@
 
 ## Games
 - [GBA](https://alxprd.github.io/gba)
+- [itch.io](https://alxprd.itch.io)
 
 ## Shaders
 - [Demo](https://alxprd.github.io/shaders/demo.html)
