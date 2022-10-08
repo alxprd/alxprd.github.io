@@ -1,11 +1,12 @@
 # alxprd.github.io
 
 ## Websites
-- [Blog](https://alxprd.github.io/test-ghost-blog)
+- [Blog](https://alxprd.github.io/blog)
 
 ## Games
-- [GBA](https://alxprd.github.io/gba)
 - [itch.io](https://alxprd.itch.io)
+- [GBA](https://alxprd.github.io/gba)
+- [Spherical Go](https://alxprd.github.io/spherical-go)
 
 ## Shaders
 - [Demo](https://alxprd.github.io/shaders/demo.html)
