@@ -34,15 +34,6 @@
 - [New Zealand 3D](https://alxprd.github.io/new-zealand-3d)
 - [3D Aotearoa](https://alxprd.github.io/3D_Aotearoa)
 
-## Trois.js
-- [Trois.js](https://github.com/alxprd/trois)
-- [Trois.js examples](https://github.com/alxprd/troisjs-examples)
-
-## Voxel.js
-- [Voxel.js site](https://alxprd.github.io/voxeljs-site)
-- [Voxel.js example](https://alxprd.github.io/voxel-example)
-- [Voxel.js metaverse](https://alxprd.github.io/voxelmetaverse)
-
 ## VR
 - [Pepalcia](https://alxprd.github.io/pepalcia)
 
